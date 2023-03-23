@@ -1,5 +1,5 @@
 '''
-Keyboard Input Listening
+Moving Object will listening to Keyboard Input
 '''
 import pygame
 pygame.init()
